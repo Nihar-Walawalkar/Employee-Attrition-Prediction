@@ -31,8 +31,8 @@ The Enhanced Employee Attrition Prediction tool helps HR professionals and manag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Enhanced-Employee-Attrition-Prediction.git
-   cd Enhanced-Employee-Attrition-Prediction
+   git clone https://github.com/Nihar-Walawalkar/Employee-Attrition-Prediction.git
+   cd Employee-Attrition-Prediction
    ```
 
 2. Create a virtual environment:
@@ -170,10 +170,6 @@ Enhanced-Employee-Attrition-Prediction/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
