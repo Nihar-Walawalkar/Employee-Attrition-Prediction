@@ -1,0 +1,31 @@
+{
+  "1": {
+    "name": "Employee 1",
+    "risk_level": "High",
+    "risk_score": 0.9639157368763926,
+    "department": "Sales",
+    "job_role": "Sales Executive",
+    "strategy_type": "Work-Life Balance",
+    "priority": "Medium",
+    "start_date": "2025-04-08",
+    "end_date": "2025-07-07",
+    "description": "hii\n\n\n",
+    "success_criteria": "jnjn\n",
+    "stakeholders": "nnn",
+    "status": "Completed",
+    "progress": 80,
+    "outcome": "Successful",
+    "notes": [
+      {
+        "date": "2025-04-08",
+        "note": "Hoal"
+      },
+      {
+        "date": "2025-04-08",
+        "note": "Hoal"
+      }
+    ],
+    "created_date": "2025-04-08",
+    "last_updated": "2025-04-08"
+  }
+}
