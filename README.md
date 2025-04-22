@@ -1,4 +1,4 @@
-# Enhanced Employee Attrition Prediction
+# **EMPLOYEE ATTRITION PREDICTION**
 
 An advanced HR analytics web application for predicting employee attrition with interactive visualizations and actionable insights.
 
